@@ -1,6 +1,6 @@
-## Externship_Project
+## Eye Disease Detection using Deep Learning
 This repository contains the externship project files for Eye Disease Detection using Deep Learning Project.
-The goal of this project is to correctly classify the eye disease category based on the provided eye image.
+The goal of this project is to correctly classify the eye disease category based on the provided eye image using deep learning algorithms.
 
 
 ### IBM Badges
